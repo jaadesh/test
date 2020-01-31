@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Route, Switch, BrowserRouter } from 'react-router-dom';
-// just comment
+// just comment 2
 import Login from './container/Login/Login';
 import Dashboard from './container/Dashboard/Dashboard';
 import SubCategory from './container/SubCategory/SubCategoryAdd';
@@ -39,7 +39,7 @@ import UserEdit from './container/User/UserEdit';
 // import QuotationEdit from './container/Sales/QuotationEdit';
 import GuestRoute from './Routes/GuestRoute';
 import UserRoute from './Routes/UserRoute';
-
+//1
 class App extends Component {
   render() {
     return (
