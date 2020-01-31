@@ -1,6 +1,10 @@
 import React, { Component } from 'react';
 import { Route, Switch, BrowserRouter } from 'react-router-dom';
+<<<<<<< HEAD
 // just comment 2
+=======
+// just commenting
+>>>>>>> 15af15564ad93a754a8630481cdec8490750d3f6
 import Login from './container/Login/Login';
 import Dashboard from './container/Dashboard/Dashboard';
 import SubCategory from './container/SubCategory/SubCategoryAdd';
